@@ -1,0 +1,1 @@
+An Actionscript API for managing Google Contacts from a Flex or AIR application
